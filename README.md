@@ -42,7 +42,7 @@ A modern, responsive clone of the State Bank of India (SBI) online banking porta
 - Secure transaction processing
 - Data encryption
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Frontend Framework**: React 18.3
 - **Language**: TypeScript
@@ -51,7 +51,7 @@ A modern, responsive clone of the State Bank of India (SBI) online banking porta
 - **Build Tool**: Vite
 - **Deployment**: Netlify
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -74,14 +74,14 @@ A modern, responsive clone of the State Bank of India (SBI) online banking porta
    npm run build
    ```
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is fully responsive and works seamlessly across:
 - Desktop computers
 - Tablets
 - Mobile devices
 
-## 🔒 Security Measures
+##  Security Measures
 
 1. **Data Protection**
    - Secure local storage
@@ -98,7 +98,7 @@ The application is fully responsive and works seamlessly across:
    - Protected card information
    - Encrypted data transmission
 
-## 🎯 Key Components
+##  Key Components
 
 1. **Landing Page (`LandingPage.tsx`)**
    - Welcome screen
@@ -129,7 +129,7 @@ The application is fully responsive and works seamlessly across:
    - Contact information
    - Profile management
 
-## 💡 Additional Features
+##  Additional Features
 
 1. **Language Support**
    - English
@@ -149,22 +149,22 @@ The application is fully responsive and works seamlessly across:
    - LinkedIn
    - Instagram
 
-## 📞 Support
+##  Support
 
 - 24/7 Customer Care: 1800 11 2211
 - Contact Us functionality
 - Help & Support section
 - FAQ section
 
-## 🌐 Live Demo
+##  Live Demo
 
 The application is deployed and can be accessed at: [https://sbiganeshponnaganti.netlify.app](https://sbiganeshponnaganti.netlify.app)
 
-## ⚠️ Disclaimer
+## ⚠ Disclaimer
 
 This is a clone project created for demonstration purposes only. It is not affiliated with the State Bank of India (SBI) or any other banking institution. Do not use real banking credentials or personal information.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
